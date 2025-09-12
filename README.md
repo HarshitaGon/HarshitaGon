@@ -1,12 +1,37 @@
-<p align="center">
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/100/000000/external-coding-programming-flaticons-flat-flat-icons.png"/>
-</p>
+<div style="display: flex; align-items: center;">
 
-# Hi, I'm Harshita Gon 👋
+  <!-- Left: Profile Image -->
+  <img src="profile.gif" alt="Profile Image" width="200" style="margin-right: 20px;"/>
 
-👩‍💻 Final Year Computer Science Student | Full-Stack Developer | Passionate about creating responsive, modern web applications and solving real-world problems with code.  
+  <!-- Right: Intro Text -->
+  <div>
+    <h1>Hi, I'm Harshita Gon 👋</h1>
+    <h3>Fullstack Web Developer</h3>
+    <p>
+      I am a Computer Science student with strong experience in building responsive, user-friendly, and scalable web applications using React.js, Flask, Java, and modern frontend frameworks like TailwindCSS. Developed impactful projects including a full-stack workflow management platform with authentication (PlanScript), an AI chatbot interface replicating Google Gemini, and a healthcare platform simulating real-world solutions. Skilled in clean code practices, SQL database management, and problem-solving with 250+ DSA questions solved.
+    </p>
+    <p>
+      I enjoy learning new frameworks, building projects, and contributing to the developer community.
+    </p>
+    <!-- Social Icons -->
+    <p>
+      <a href="[https://www.linkedin.com/in/<your-linkedin](https://www.linkedin.com/in/harshita-gon-671069276/)>" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="40"/>
+      </a>
+      &nbsp;
+      <a href="https://x.com/harshitagon>" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" width="40"/>
+      </a>
+      &nbsp;
+      <a href="mailto:<harshitagon@gmail.com>" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/000000/email.png" width="40"/>
+      </a>
+    </p>
+  </div>
 
-I enjoy learning new technologies, building projects, contributing to open-source, and sharing knowledge with the community.  
+</div>
+
+
 
 ---
 
