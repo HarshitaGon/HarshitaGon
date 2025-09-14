@@ -1,3 +1,10 @@
+<!-- Cover Image -->
+<p align="center">
+  <img src="https://yourimageurl.com/cover.jpg" alt="Cover Image" width="100%" style="border-radius: 10px;"/>
+</p>
+
+<br/>
+
 <div style="display: flex; align-items: center;">
 
   <!-- Left: Profile Image -->
@@ -15,23 +22,21 @@
     </p>
     <!-- Social Icons -->
     <p>
-      <a href="[https://www.linkedin.com/in/<your-linkedin](https://www.linkedin.com/in/harshita-gon-671069276/)>" target="_blank">
+      <a href="https://www.linkedin.com/in/harshita-gon-671069276/" target="_blank">
         <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="40"/>
       </a>
       &nbsp;
-      <a href="https://x.com/harshitagon>" target="_blank">
+      <a href="https://x.com/harshitagon" target="_blank">
         <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" width="40"/>
       </a>
       &nbsp;
-      <a href="mailto:<harshitagon@gmail.com>" target="_blank">
+      <a href="mailto:harshitagon@gmail.com" target="_blank">
         <img src="https://img.icons8.com/ios-filled/50/000000/email.png" width="40"/>
       </a>
     </p>
   </div>
 
 </div>
-
-
 
 ---
 
@@ -74,5 +79,4 @@
 
 ---
 
-✨ Let’s code, learn, and grow together!  
-
+✨ Let’s code, learn, and grow together!
